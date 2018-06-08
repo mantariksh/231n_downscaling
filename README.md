@@ -1,3 +1,9 @@
 # 231n_downscaling
-Milestone report: https://www.overleaf.com/16272495hqzxyrzfhsty
-Final report: https://www.overleaf.com/16583518wchbwfsjynmw
+
+SRCNN.ipynb contains the implementation of the SRCNN2 model.
+
+SRCNN_precip.ipynb contains the implementation of the SRCNNp model.
+
+SRGAN_no_pixleShuffle.ipynb contains the implementations of the SRGAN and SRResNet models.
+
+performance_metrics.ipynb contains the extreme events analysis code.
